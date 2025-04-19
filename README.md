@@ -7,9 +7,6 @@ A Model-Code-Parameter (MCP) server implementation for [CadQuery](https://github
 
 CadQuery MCP is a server that enables interaction with [CadQuery](https://github.com/CadQuery/cadquery) through a standardized API, allowing remote control of 3D modeling operations. It leverages the Model-Code-Parameter (MCP) architecture to provide a consistent interface for CAD operations.
 
-#### Demo
-
-![demo](./assets/demo.mp4)
 
 **Key Features:**
 - Create and manage multiple workspaces for organizing models
